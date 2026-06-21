@@ -19,5 +19,15 @@ body img {
   width: 25%;
   vertical-align: middle;
   height: 25%;
-  background-color: lightgray;
+  border-radius: 5%;
+  margin-top: 1%;
+}
+
+body main p {
+  display: inline-block;
+  width: 27%;
+  text-align: center;
+  height: 100px;
+  background-color: rgb(245, 145, 223);
+  line-height: 65%px;
 }
