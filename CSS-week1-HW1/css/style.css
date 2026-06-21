@@ -15,9 +15,9 @@ body li{
 
 body img {[src="images/BaconGalloppark.jpg"]
   display: inline-block;
-  width: 100%;
+  width: 25%;
   text-align: center;
-  height: 100px;
+  height: 25%;
   background-color: rgb(255, 255, 255);
   line-height: 100px;
 }
