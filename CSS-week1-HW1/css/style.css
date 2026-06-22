@@ -1,5 +1,5 @@
 body{
-  font-family: Georgia, "Times New Roman", sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 150%;
   background-color: rgb(211, 151, 235);
   text-align: center;
@@ -8,9 +8,11 @@ body{
 body li{
   display: inline-block;
   width: 27%;
+  padding: 0.2em;
+  border-radius: 10px;
   text-align: center;
   height: 100px;
-  background-color: lightgray;
+  background-color: rgb(245, 227, 145);
   line-height: 100px;
 }
 
@@ -21,13 +23,30 @@ body img {
   height: 25%;
   border-radius: 5%;
   margin-top: 1%;
+  margin-bottom: 1%;
+
 }
 
 body main p {
   display: inline-block;
-  
   text-align: center;
- 
-  background-color: rgb(245, 145, 223);
+  background-color: rgb(103, 228, 228);
   line-height: 65%px;
+}
+body h1 {
+  background-color: rgb(245, 227, 145);
+  display: inline-block;
+  padding: 0.5em;
+  border-radius: 10px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  font-size: 100%;
+
+} 
+body footer {
+  background-color: rgb(245, 227, 145);
+  display: inline-block;
+  padding: 0.2em;
+  border-radius: 10px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  font-size: 100%;
 }
