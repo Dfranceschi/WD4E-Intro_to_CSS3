@@ -6,12 +6,14 @@ body{
 }
 
 body li{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 100%;
   display: inline-block;
-  width: 27%;
+  width: 20%;
   padding: 0.2em;
   border-radius: 10px;
   text-align: center;
-  height: 100px;
+  height: 55%;
   background-color: rgb(245, 227, 145);
   line-height: 100px;
 }
@@ -28,21 +30,27 @@ body img {
 }
 
 body main p {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 100%;
   display: inline-block;
   text-align: center;
   background-color: rgb(103, 228, 228);
   line-height: 65%px;
 }
 body h1 {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 170%;
   background-color: rgb(245, 227, 145);
   display: inline-block;
   padding: 0.5em;
   border-radius: 10px;
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 100%;
 
 } 
 body footer {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 100%;
   background-color: rgb(245, 227, 145);
   display: inline-block;
   padding: 0.2em;
