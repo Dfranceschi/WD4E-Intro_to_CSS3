@@ -47,8 +47,7 @@ body h1 {
   display: inline-block;
   padding: 0.5em;
   border-radius: 10px;
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 100%;
+  
 
 } 
 body footer {
@@ -58,6 +57,4 @@ body footer {
   display: inline-block;
   padding: 0.2em;
   border-radius: 10px;
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 100%;
 }
